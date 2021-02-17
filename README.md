@@ -1,1 +1,1 @@
-# 171_final_AI
+# FALL 2020 CS171-final-AI
